@@ -69,3 +69,9 @@ Going abroad for a conference? Here are some helpful tips to make preparing for 
 - Roaming activation
 - Credit/debit card
   - Call issuing bank and let them know your intentions to use the card in another country.
+  
+## Additional advice
+
+- When choosing connecting international flights, choose ones that are at least three hours in between of each other, as unexpected delays might force you to re-book your flight. In my case, I had a 24-hour layover in LAX because there was only a single flight to New Zealand available every day.
+- Always pack the important stuff inside your carry-on luggage (e.g. passport, prescription medication).
+- It's good to have at least one set of clothes and underwear in your carry-on in case you get laid over for more than 12 hours and would rather leave your checked-in luggage at the airport.
