@@ -69,7 +69,8 @@ Going abroad for a conference? Here are some helpful tips to make preparing for 
 - Gifts to friends and family
 - Pocket money (in small denominations)
 - Roaming activation
-- Airline phone app
+- Airline phone app to check flight availability
+- A VPN subscription, useful when connecting to public hotspots within airports, hotels, etc.
 - Credit/debit card
   - Call issuing bank and let them know your intentions to use the card in another country.
   
