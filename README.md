@@ -7,10 +7,12 @@ Going abroad for a conference? Here are some helpful tips to make preparing for 
 - Laptop
 - Phone
   - Clear storage (e.g. old photos)
+  - Make sure it's unlocked for SIM cards from any country can be activated on it.
 - Headphones
   - If owning Bluetooth headphones, bring a 3.5mm jack to use them in-flight.
 - Power bank (10k++ mAh rating)
 - Outlet adapters
+  - Bring at least two (one for your phone and laptop)
 - Flash disk
 - Camera
 
@@ -67,6 +69,7 @@ Going abroad for a conference? Here are some helpful tips to make preparing for 
 - Gifts to friends and family
 - Pocket money (in small denominations)
 - Roaming activation
+- Airline phone app
 - Credit/debit card
   - Call issuing bank and let them know your intentions to use the card in another country.
   
